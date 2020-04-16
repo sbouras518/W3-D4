@@ -4,3 +4,4 @@ gem 'rspec'
 gem 'pry'
 gem 'dotenv'
 gem "nokogiri", ">= 1.6.7.rc"
+gem 'awesome_print'
