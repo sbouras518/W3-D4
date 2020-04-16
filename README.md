@@ -4,9 +4,9 @@ En informatique tout est possible". Aujourd'hui, nous allons poursuivre dans le 
 
 > Dossier lib : contient les 3 exercices 
 
-  dark_trader : récupère le cours des cryptomonnaies
-  Mairie christmas : récupère l'annuaire des mairies du Val d'Oise et leurs adresses e-mail
-  Cher député : récupère la liste des députés de France
+  * dark_trader : récupère le cours des cryptomonnaies
+  * Mairie christmas : récupère l'annuaire des mairies du Val d'Oise et leurs adresses e-mail
+  * Cher député : récupère la liste des députés de France
 
 > Dossier "spec"
 
